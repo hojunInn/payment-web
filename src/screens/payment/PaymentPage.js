@@ -33,7 +33,7 @@ export const PaymentPage = () => {
       <header className="App-header">
       <SearchBar placeholder="search grouop activity member"/>
         <p>
-          나는 홈페이지를 만들꺼야
+          결제 패이지
         </p>
         <button onClick={callPaymentModule}>
           이 버튼을 누르면 결제가 됨
