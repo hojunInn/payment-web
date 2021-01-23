@@ -1,6 +1,5 @@
 import React from 'react'
 import jQuery from "jquery";
-import {SearchBar} from 'react-native-elements'
 window.$ = window.jQuery = jQuery
 var IMP = window.IMP; 
 IMP.init("imp10942072"); 
@@ -31,7 +30,6 @@ export const PaymentPage = () => {
     return (
         <div>
       <header className="App-header">
-      <SearchBar placeholder="search grouop activity member"/>
         <p>
           결제 패이지
         </p>
