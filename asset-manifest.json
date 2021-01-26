@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/payment-web/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/payment-web/static/js/main.b206f0e2.chunk.js",
-    "main.js.map": "/payment-web/static/js/main.b206f0e2.chunk.js.map",
-    "runtime-main.js": "/payment-web/static/js/runtime-main.eabd4737.js",
-    "runtime-main.js.map": "/payment-web/static/js/runtime-main.eabd4737.js.map",
-    "static/js/2.600bc100.chunk.js": "/payment-web/static/js/2.600bc100.chunk.js",
-    "static/js/2.600bc100.chunk.js.map": "/payment-web/static/js/2.600bc100.chunk.js.map",
-    "static/js/3.69594b7d.chunk.js": "/payment-web/static/js/3.69594b7d.chunk.js",
-    "static/js/3.69594b7d.chunk.js.map": "/payment-web/static/js/3.69594b7d.chunk.js.map",
+    "main.js": "/payment-web/static/js/main.905931d6.chunk.js",
+    "main.js.map": "/payment-web/static/js/main.905931d6.chunk.js.map",
+    "runtime-main.js": "/payment-web/static/js/runtime-main.0f4caf86.js",
+    "runtime-main.js.map": "/payment-web/static/js/runtime-main.0f4caf86.js.map",
+    "static/js/2.bd89bfcb.chunk.js": "/payment-web/static/js/2.bd89bfcb.chunk.js",
+    "static/js/2.bd89bfcb.chunk.js.map": "/payment-web/static/js/2.bd89bfcb.chunk.js.map",
+    "static/js/3.821843de.chunk.js": "/payment-web/static/js/3.821843de.chunk.js",
+    "static/js/3.821843de.chunk.js.map": "/payment-web/static/js/3.821843de.chunk.js.map",
     "index.html": "/payment-web/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/payment-web/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.600bc100.chunk.js.LICENSE.txt": "/payment-web/static/js/2.600bc100.chunk.js.LICENSE.txt"
+    "static/js/2.bd89bfcb.chunk.js.LICENSE.txt": "/payment-web/static/js/2.bd89bfcb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eabd4737.js",
-    "static/js/2.600bc100.chunk.js",
+    "static/js/runtime-main.0f4caf86.js",
+    "static/js/2.bd89bfcb.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.b206f0e2.chunk.js"
+    "static/js/main.905931d6.chunk.js"
   ]
 }
